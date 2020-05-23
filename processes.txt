@@ -1,0 +1,280 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 225656  9436 ?        Ss   05:52   0:01 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    05:52   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        I<   05:52   0:00 [mm_percpu_wq]
+root         7  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/0]
+root         8  0.0  0.0      0     0 ?        I    05:52   0:01 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        I    05:52   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/1]
+root        14  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/1]
+root        15  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/1]
+root        16  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/1]
+root        18  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/1:0H]
+root        19  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/2]
+root        20  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/3]
+root        26  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/3]
+root        27  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/3]
+root        28  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/3]
+root        30  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/3:0H]
+root        31  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/4]
+root        32  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/4]
+root        33  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/4]
+root        34  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/4]
+root        36  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/4:0H]
+root        37  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/5]
+root        38  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/5]
+root        39  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/5]
+root        40  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/5]
+root        42  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/5:0H]
+root        43  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/6]
+root        44  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/6]
+root        45  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/6]
+root        46  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/6]
+root        48  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/6:0H]
+root        49  0.0  0.0      0     0 ?        S    05:52   0:00 [cpuhp/7]
+root        50  0.0  0.0      0     0 ?        S    05:52   0:00 [watchdog/7]
+root        51  0.0  0.0      0     0 ?        S    05:52   0:00 [migration/7]
+root        52  0.0  0.0      0     0 ?        S    05:52   0:00 [ksoftirqd/7]
+root        54  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/7:0H]
+root        55  0.0  0.0      0     0 ?        S    05:52   0:00 [kdevtmpfs]
+root        56  0.0  0.0      0     0 ?        I<   05:52   0:00 [netns]
+root        57  0.0  0.0      0     0 ?        S    05:52   0:00 [rcu_tasks_kthre]
+root        58  0.0  0.0      0     0 ?        S    05:52   0:00 [kauditd]
+root        59  0.0  0.0      0     0 ?        I    05:52   0:00 [kworker/0:1]
+root        60  0.0  0.0      0     0 ?        I    05:52   0:00 [kworker/1:1]
+root        61  0.0  0.0      0     0 ?        I    05:52   0:00 [kworker/2:1]
+root        62  0.0  0.0      0     0 ?        S    05:52   0:00 [khungtaskd]
+root        63  0.0  0.0      0     0 ?        S    05:52   0:00 [oom_reaper]
+root        64  0.0  0.0      0     0 ?        I<   05:52   0:00 [writeback]
+root        65  0.0  0.0      0     0 ?        S    05:52   0:00 [kcompactd0]
+root        66  0.0  0.0      0     0 ?        SN   05:52   0:00 [ksmd]
+root        67  0.0  0.0      0     0 ?        SN   05:52   0:00 [khugepaged]
+root        68  0.0  0.0      0     0 ?        I<   05:52   0:00 [crypto]
+root        69  0.0  0.0      0     0 ?        I<   05:52   0:00 [kintegrityd]
+root        70  0.0  0.0      0     0 ?        I<   05:52   0:00 [kblockd]
+root        72  0.0  0.0      0     0 ?        I    05:52   0:00 [kworker/7:1]
+root        73  0.0  0.0      0     0 ?        I    05:52   0:00 [kworker/3:1]
+root        75  0.0  0.0      0     0 ?        I    05:52   0:00 [kworker/5:1]
+root        76  0.0  0.0      0     0 ?        I<   05:52   0:00 [ata_sff]
+root        77  0.0  0.0      0     0 ?        I<   05:52   0:00 [md]
+root        78  0.0  0.0      0     0 ?        I<   05:52   0:00 [edac-poller]
+root        79  0.0  0.0      0     0 ?        I<   05:52   0:00 [devfreq_wq]
+root        80  0.0  0.0      0     0 ?        I<   05:52   0:00 [watchdogd]
+root        83  0.0  0.0      0     0 ?        S    05:52   0:00 [kswapd0]
+root        84  0.0  0.0      0     0 ?        I<   05:52   0:00 [kworker/u17:0]
+root        85  0.0  0.0      0     0 ?        S    05:52   0:00 [ecryptfs-kthrea]
+root       127  0.0  0.0      0     0 ?        I<   05:52   0:00 [kthrotld]
+root       128  0.0  0.0      0     0 ?        I<   05:52   0:00 [acpi_thermal_pm]
+root       133  0.0  0.0      0     0 ?        I<   05:52   0:00 [ipv6_addrconf]
+root       142  0.0  0.0      0     0 ?        I<   05:52   0:00 [kstrp]
+root       159  0.0  0.0      0     0 ?        I<   05:52   0:00 [charger_manager]
+root       161  0.0  0.0      0     0 ?        I    05:52   0:00 [kworker/7:2]
+root       215  0.0  0.0      0     0 ?        I<   05:52   0:00 [nvme-wq]
+root       216  0.0  0.0      0     0 ?        S    05:52   0:00 [scsi_eh_0]
+root       217  0.0  0.0      0     0 ?        I<   05:52   0:00 [scsi_tmf_0]
+root       218  0.0  0.0      0     0 ?        S    05:52   0:00 [scsi_eh_1]
+root       219  0.0  0.0      0     0 ?        I<   05:52   0:00 [scsi_tmf_1]
+root       220  0.0  0.0      0     0 ?        S    05:52   0:00 [scsi_eh_2]
+root       221  0.0  0.0      0     0 ?        I<   05:52   0:00 [scsi_tmf_2]
+root       222  0.0  0.0      0     0 ?        S    05:52   0:00 [scsi_eh_3]
+root       223  0.0  0.0      0     0 ?        I<   05:52   0:00 [scsi_tmf_3]
+root       226  0.0  0.0      0     0 ?        S    05:52   0:00 [i915/signal:0]
+root       227  0.0  0.0      0     0 ?        S    05:52   0:00 [i915/signal:1]
+root       228  0.0  0.0      0     0 ?        S    05:52   0:00 [i915/signal:2]
+root       229  0.0  0.0      0     0 ?        S    05:52   0:00 [i915/signal:4]
+root       232  0.0  0.0      0     0 ?        I    05:53   0:00 [kworker/5:2]
+root       235  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/3:1H]
+root       337  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/7:1H]
+root       339  0.0  0.0      0     0 ?        S    05:53   0:00 [jbd2/nvme0n1p1-]
+root       340  0.0  0.0      0     0 ?        I<   05:53   0:00 [ext4-rsv-conver]
+root       383  1.1  0.2 143968 56172 ?        S<s  05:53   0:23 /lib/systemd/systemd-journald
+root       402  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/2:1H]
+root       412  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/5:1H]
+root       415  0.0  0.0  97708  1840 ?        Ss   05:53   0:00 /sbin/lvmetad -f
+root       421  0.0  0.0  46436  4864 ?        Ss   05:53   0:00 /lib/systemd/systemd-udevd
+root       456  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/6:1H]
+root       470  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/0:1H]
+root       502  0.0  0.0      0     0 ?        I    05:53   0:00 [kworker/3:2]
+root       504  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/4:1H]
+root       507  0.0  0.0      0     0 ?        S    05:53   0:00 [irq/144-mei_me]
+root       529  0.0  0.0      0     0 ?        I<   05:53   0:00 [cfg80211]
+root       536  0.0  0.0      0     0 ?        S    05:53   0:01 [irq/145-iwlwifi]
+root       550  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/u17:2]
+root       587  0.0  0.0      0     0 ?        S    05:53   0:00 [nvidia-modeset]
+root       657  0.0  0.0      0     0 ?        I<   05:53   0:00 [kmemstick]
+root       660  0.0  0.0      0     0 ?        S    05:53   0:00 [UVM global queu]
+root       662  0.0  0.0      0     0 ?        S    05:53   0:00 [UVM Tools Event]
+systemd+   729  0.0  0.0  71032  6476 ?        Ss   05:53   0:00 /lib/systemd/systemd-resolved
+systemd+   732  0.0  0.0 146116  3356 ?        Ssl  05:53   0:00 /lib/systemd/systemd-timesyncd
+root       864  0.0  0.0  36488  4564 ?        Ss   05:53   0:00 /usr/lib/bluetooth/bluetoothd
+root       865  0.0  0.0 289164  7200 ?        Ssl  05:53   0:01 /usr/lib/accountsservice/accounts-daemon
+root       868  0.0  0.0 434336  9460 ?        Ssl  05:53   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root       870  0.0  0.0   4552   760 ?        Ss   05:53   0:00 /usr/sbin/acpid
+root       875  0.0  0.0 171692 17276 ?        Ssl  05:53   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root       876  0.0  0.0  70616  6008 ?        Ss   05:53   0:00 /lib/systemd/systemd-logind
+root       877  0.0  0.0  32540  3228 ?        Ss   05:53   0:00 /usr/sbin/cron -f
+root       879  0.0  0.0 181112  9372 ?        Ssl  05:53   0:00 /usr/sbin/thermald --no-daemon --dbus-enable
+root       881  0.0  0.0 101812  8072 ?        Ss   05:53   0:00 /usr/sbin/cupsd -l
+message+   884  0.0  0.0  51364  5628 ?        Ss   05:53   0:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       901  0.0  0.0  45504  7676 ?        Ss   05:53   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       903  0.0  0.0 562796 17532 ?        Ssl  05:53   0:00 /usr/sbin/NetworkManager --no-daemon
+syslog     905  0.1  0.0 263036  4840 ?        Ssl  05:53   0:02 /usr/sbin/rsyslogd -n
+root       907  0.0  0.0 503268 11496 ?        Ssl  05:53   0:00 /usr/lib/udisks2/udisksd
+root       910  0.0  0.0 110520  3480 ?        Ssl  05:53   0:00 /usr/sbin/irqbalance --foreground
+avahi      911  0.0  0.0  47268  3232 ?        Ss   05:53   0:00 avahi-daemon: running [dawid-GE62-6QD.local]
+avahi      922  0.0  0.0  47076   344 ?        S    05:53   0:00 avahi-daemon: chroot helper
+root       947  0.0  0.0 303656 11296 ?        Ssl  05:53   0:00 /usr/sbin/cups-browsed
+root       949  0.0  0.0 292988  8796 ?        Ssl  05:53   0:00 /usr/lib/policykit-1/polkitd --no-debug
+kernoops   955  0.0  0.0  56944   424 ?        Ss   05:53   0:00 /usr/sbin/kerneloops --test
+kernoops   958  0.0  0.0  56944   420 ?        Ss   05:53   0:00 /usr/sbin/kerneloops
+root       962  0.0  0.0      0     0 ?        I<   05:53   0:00 [kworker/1:1H]
+root       982  0.0  0.0 290468  6792 ?        Ssl  05:53   0:00 /usr/sbin/lightdm
+root      1003  1.9  0.3 522848 93512 tty7     Ssl+ 05:53   0:42 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1006  0.0  0.0  17400  1912 tty1     Ss+  05:53   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root      1019  0.5  0.0      0     0 ?        S    05:53   0:10 [irq/152-nvidia]
+root      1020  0.0  0.0      0     0 ?        S    05:53   0:00 [nvidia]
+root      1021  0.0  0.0      0     0 ?        I    05:53   0:00 [kworker/6:2]
+root      1076  0.0  0.0 266804  7604 ?        Sl   05:53   0:00 lightdm --session-child 13 16
+dawid     1080  0.0  0.0  76904  7828 ?        Ss   05:53   0:00 /lib/systemd/systemd --user
+dawid     1081  0.0  0.0 132580  2980 ?        S    05:53   0:00 (sd-pam)
+dawid     1092  0.0  0.1 515372 35684 ?        Ssl  05:53   0:00 cinnamon-session --session cinnamon
+dawid     1107  0.0  0.0  50748  4976 ?        Ss   05:53   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+dawid     1158  0.0  0.0  11304   320 ?        Ss   05:53   0:00 /usr/bin/ssh-agent /usr/bin/im-launch cinnamon-session-cinnamon
+dawid     1170  0.0  0.0 349416  6240 ?        Ssl  05:53   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+dawid     1175  0.0  0.0  50184  4576 ?        S    05:53   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+dawid     1177  0.0  0.0 220780  6936 ?        Sl   05:53   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+dawid     1184  0.0  0.0 282868  7908 ?        SLl  05:53   0:00 /usr/bin/gnome-keyring-daemon --start --components=ssh
+dawid     1194  0.0  0.0 381976 22968 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-wacom
+dawid     1198  0.0  0.0 546240 21028 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-orientation
+dawid     1199  0.0  0.0 485716 22380 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-xrandr
+dawid     1200  0.0  0.1 558016 34064 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-power
+dawid     1201  0.0  0.0 449028 23744 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-keyboard
+dawid     1204  0.0  0.0 576856 23228 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-color
+dawid     1206  0.0  0.1 482708 31140 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-background
+dawid     1210  0.0  0.0 398860 20644 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-mouse
+dawid     1212  0.0  0.0 781472 23936 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-media-keys
+dawid     1213  0.0  0.0 398868 20584 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-a11y-settings
+dawid     1214  0.0  0.0 322624 20380 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-clipboard
+dawid     1215  0.0  0.0 398748 20812 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-housekeeping
+dawid     1218  0.0  0.0 447228 23896 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-print-notifications
+dawid     1219  0.0  0.0 842304 23492 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-sound
+dawid     1220  0.0  0.0 476856 21312 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-automount
+dawid     1221  0.0  0.0 398780 20760 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-a11y-keyboard
+dawid     1222  0.0  0.0 401492 23968 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-xsettings
+dawid     1223  0.0  0.0 322624 20512 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-cursor
+dawid     1224  0.0  0.0 396376 20672 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-screensaver-proxy
+dawid     1230  0.0  0.0 1595972 18184 ?       S<l  05:53   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1233  0.0  0.0 183508  2884 ?        SNsl 05:53   0:00 /usr/lib/rtkit/rtkit-daemon
+root      1241  0.0  0.0 316820  8940 ?        Ssl  05:53   0:00 /usr/lib/upower/upowerd
+root      1302  0.0  0.0  25992  6176 ?        S    05:53   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-wlp2s0.pid -lf /var/lib/NetworkManager/dhclient-aebde96b-3855-4460-b1f2-e57f2bb49a1f-wlp2s0.lease -cf /var/lib/NetworkManager/dhclient-wlp2s0.conf wlp2s0
+dawid     1303  0.0  0.0 286388  7432 ?        Ssl  05:53   0:00 /usr/lib/gvfs/gvfsd
+dawid     1306  0.0  0.0 188132  5196 ?        Sl   05:53   0:00 /usr/lib/dconf/dconf-service
+dawid     1320  0.0  0.0 416116  5296 ?        Sl   05:53   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+dawid     1323  0.0  0.0 300952  8700 ?        Ssl  05:53   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+colord    1337  0.0  0.0 319428 14104 ?        Ssl  05:53   0:00 /usr/lib/colord/colord
+dawid     1346  0.0  0.0 283088  6816 ?        Ssl  05:53   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+dawid     1347  0.0  0.0 503084 12496 ?        Sl   05:53   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-settings-daemon/csd-printer
+dawid     1354  0.0  0.0 268416  6080 ?        Ssl  05:53   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+dawid     1359  0.0  0.1 778448 33444 ?        Sl   05:53   0:00 /usr/lib/gnome-online-accounts/goa-daemon
+dawid     1419  0.0  0.0 297880  7852 ?        Sl   05:53   0:00 /usr/lib/gnome-online-accounts/goa-identity-service
+dawid     1421  0.0  0.0 270156  6232 ?        Ssl  05:53   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+dawid     1434  0.0  0.0 373136  7520 ?        Ssl  05:53   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+root      1495  0.0  0.0      0     0 ?        S<   05:53   0:00 [krfcommd]
+dawid     1500  0.0  0.1 185312 29448 ?        S    05:53   0:00 /usr/bin/python3 /usr/bin/cinnamon-launcher
+dawid     1501  1.7  0.7 3565876 181100 ?      Sl   05:53   0:36 cinnamon --replace
+dawid     1519  0.0  0.1 355520 41140 ?        Sl   05:53   0:00 python2 /usr/lib/nvidia-prime-applet/nvidia-prime
+dawid     1521  0.0  0.1 435624 31840 ?        Sl   05:53   0:00 blueberry-obex-agent
+dawid     1526  0.0  0.2 1208952 56136 ?       Sl   05:53   0:00 nemo-desktop
+dawid     1528  0.0  0.1 650168 38104 ?        Sl   05:53   0:00 nm-applet
+dawid     1530  0.0  0.1 410624 29772 ?        Sl   05:53   0:00 /usr/bin/python3 /usr/bin/cinnamon-killer-daemon
+dawid     1532  0.0  0.0 324444 20140 ?        Sl   05:53   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+dawid     1543  0.4  0.9 5248972 221716 ?      Ssl  05:53   0:08 /home/dawid/.dropbox-dist/dropbox-lnx.x86_64-97.4.467/dropbox
+dawid     1549  0.0  0.0  49896  3356 ?        Ss   05:53   0:00 /usr/bin/dbus-daemon --syslog --fork --print-pid 5 --print-address 7 --session
+dawid     1560  0.0  0.0  82736  6564 ?        Ss   05:53   0:00 /usr/lib/bluetooth/obexd
+dawid     1584  0.0  0.0 199464  6684 ?        Ssl  05:53   0:00 /usr/lib/gvfs/gvfsd-metadata
+dawid     1641  0.0  0.0 362548  7196 ?        Sl   05:53   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.33 /org/gtk/gvfs/exec_spaw/0
+uuidd     1757  0.0  0.0  29360  1436 ?        Ss   05:53   0:00 /usr/sbin/uuidd --socket-activation
+dawid     1763  0.0  0.0  30200  8472 ?        S    05:53   0:00 /usr/bin/python3 /usr/bin/blueberry-tray
+dawid     1764  0.0  0.2 671684 49316 ?        Sl   05:53   0:00 cinnamon-screensaver
+dawid     1765  0.0  0.0   4628   860 ?        S    05:53   0:00 sh -c /usr/lib/blueberry/blueberry-tray.py
+dawid     1766  0.0  0.1 646852 46572 ?        Sl   05:53   0:00 python2 /usr/lib/blueberry/blueberry-tray.py
+dawid     1778  0.0  0.0  27376  7800 ?        S    05:53   0:00 python2 /usr/lib/blueberry/safechild /usr/sbin/rfkill event
+dawid     1779  0.0  0.0  10964   980 ?        S    05:53   0:00 /usr/sbin/rfkill event
+dawid     1789  0.0  0.2 738712 62900 ?        Sl   05:53   0:00 mintUpdate
+dawid     1880  4.5  1.5 3813692 369420 ?      SLl  05:53   1:35 /usr/lib/chromium-browser/chromium-browser --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --enable-pinch
+dawid     1897  0.0  0.2 469476 62664 ?        S    05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=zygote --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371
+dawid     1899  0.0  0.0 469476 15708 ?        S    05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=zygote --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371
+dawid     1918  2.9  1.1 1199472 270780 ?      Sl   05:53   1:01 /usr/lib/chromium-browser/chromium-browser --type=gpu-process --field-trial-handle=8295534399160474129,11779120276996652625,131072 --gpu-preferences=MAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --shared-files
+dawid     1923  0.6  0.3 1335076 93976 ?       SLl  05:53   0:13 /usr/lib/chromium-browser/chromium-browser --type=utility --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --service-sandbox-type=network --disable-webrtc-apm-in-audio-service --shared-files=v8_snapshot_data:100
+dawid     1935  0.0  0.1 549664 26552 ?        S    05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=broker
+dawid     1952  0.0  0.3 5942776 86992 ?       Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     1992  0.1  0.5 6054212 140704 ?      Sl   05:53   0:03 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --extension-process --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2065  1.4  0.8 5933592 207412 ?      Sl   05:53   0:29 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=19 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2078  1.9  0.6 5887988 159276 ?      Sl   05:53   0:40 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=22 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2091  0.0  0.5 5845796 123212 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=25 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2104  0.0  0.4 5829680 110252 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=27 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2117  0.1  0.5 5859264 142272 ?      Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=28 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2132  0.0  0.1 251436 33092 ?        Sl   05:53   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+dawid     2137  2.9  0.4 5851908 109920 ?      Sl   05:53   1:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=35 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2150  0.0  0.4 5839288 113020 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --extension-process --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=36 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2166  0.0  0.3 5007528 79696 ?       Sl   05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=ppapi --field-trial-handle=8295534399160474129,11779120276996652625,131072 --ppapi-flash-args --lang=en-US --shared-files
+dawid     2222  0.0  0.4 5835896 115748 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=21 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2235  0.0  0.5 5846308 132196 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=38 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2252  0.1  0.5 5850584 128712 ?      Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=18 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2265  0.8  0.6 5905944 166832 ?      Sl   05:53   0:17 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=39 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2286  0.1  0.4 5832972 112120 ?      Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=40 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2302  0.2  0.6 5881816 159680 ?      Sl   05:53   0:05 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=15 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2319  0.2  0.6 5863784 148324 ?      Sl   05:53   0:04 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=20 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2358  0.0  0.4 5844612 120620 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=12 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2373  0.3  0.5 5862300 128152 ?      Sl   05:53   0:06 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=16 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2386  0.0  0.3 5807244 76356 ?       Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=42 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2392  0.1  0.3 5809412 75668 ?       Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=43 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2416  0.0  0.3 5807300 74320 ?       Sl   05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=44 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2429  0.0  0.3 5826176 88288 ?       Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=45 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2444  0.1  0.3 5810608 85596 ?       Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=46 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2460  0.0  0.3 5813584 78500 ?       Sl   05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=47 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2474  0.0  0.3 5820048 94752 ?       Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=48 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2487  0.0  0.2 1161892 56956 ?       Sl   05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=utility --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --service-sandbox-type=audio --disable-webrtc-apm-in-audio-service --shared-files=v8_snapshot_data:100
+dawid     2510  0.1  0.4 5825196 110068 ?      Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=51 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2541  0.0  0.4 5842976 117108 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=17 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2554  0.2  0.6 5871496 149692 ?      Sl   05:53   0:04 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=26 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2567  0.0  0.3 5808252 77036 ?       Sl   05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=52 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2581  0.0  0.3 5811504 79088 ?       Sl   05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=53 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2613  0.0  0.3 5807664 77448 ?       Sl   05:53   0:00 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=55 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2614  0.2  0.3 5823104 88420 ?       Sl   05:53   0:04 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=56 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2642  0.1  0.5 5853076 133264 ?      Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=29 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2668  0.2  0.6 14289360 154016 ?     Sl   05:53   0:06 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=24 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2694  0.4  0.6 5884180 160860 ?      Sl   05:53   0:09 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=34 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2715  0.1  0.5 5848980 133148 ?      Sl   05:53   0:02 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=30 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2730  0.4  0.6 5883108 169836 ?      Sl   05:53   0:09 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=33 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2751  0.0  0.5 5850100 133528 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=31 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2783  0.0  0.5 5841472 124868 ?      Sl   05:53   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=32 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2830  1.0  0.5 5866368 137480 ?      Sl   05:54   0:21 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=58 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     2843  0.4  0.4 5851872 116184 ?      Sl   05:54   0:09 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=59 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+root      3075  0.0  0.0      0     0 ?        I    05:58   0:00 [kworker/2:2]
+root      3237  0.0  0.0      0     0 ?        I    06:02   0:00 [kworker/1:3]
+root      3260  0.0  0.0      0     0 ?        I    06:02   0:00 [kworker/4:3]
+root      3370  0.0  0.0  45704  2352 ?        S    06:03   0:00 dbus-launch --autolaunch=82929df7ee394b73b81252fe3b4e5020 --binary-syntax --close-stderr
+root      3371  0.0  0.0  49796  2744 ?        Ss   06:03   0:00 /usr/bin/dbus-daemon --syslog-only --fork --print-pid 5 --print-address 7 --session
+root      3890  0.0  0.0 368136 14192 ?        Ssl  06:03   0:00 /usr/lib/packagekit/packagekitd
+root      3960  0.0  0.0      0     0 ?        I    06:04   0:00 [kworker/u16:1]
+root      4089  0.0  0.0      0     0 ?        I    06:08   0:00 [kworker/4:1]
+root      4129  0.0  0.0      0     0 ?        I    06:10   0:00 [kworker/0:0]
+dawid     4163  1.6  0.5 5871624 131612 ?      Sl   06:10   0:17 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=84 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+dawid     4180  0.1  0.4 5850224 120140 ?      Sl   06:10   0:01 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=85 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+root      4327  0.0  0.0      0     0 ?        I    06:17   0:00 [kworker/6:0]
+dawid     4330  0.0  0.2 5574824 51812 ?       Sl   06:17   0:00 /usr/lib/chromium-browser/chromium-browser --type=renderer --disable-webrtc-apm-in-audio-service --field-trial-handle=8295534399160474129,11779120276996652625,131072 --lang=en-US --enable-auto-reload --ppapi-flash-path=/usr/lib/adobe-flashplugin/libpepflashplayer.so --ppapi-flash-version=32.0.0.371 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=86 --no-v8-untrusted-code-mitigations --shared-files=v8_snapshot_data:100
+root      4388  0.0  0.0      0     0 ?        I    06:19   0:00 [kworker/u16:0]
+dawid     4517  0.4  0.1 591672 37608 ?        Ssl  06:25   0:00 /usr/lib/gnome-terminal/gnome-terminal-server
+dawid     4524  0.1  0.0  25288  6632 pts/0    Ss   06:25   0:00 bash
+root      4542  0.0  0.0      0     0 ?        I    06:25   0:00 [kworker/u16:2]
+root      4558  0.0  0.0      0     0 ?        I    06:26   0:00 [kworker/0:2]
+dawid     4627  0.0  0.0  40972  3544 pts/0    R+   06:28   0:00 ps aux

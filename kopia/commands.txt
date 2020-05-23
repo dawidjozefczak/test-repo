@@ -1,0 +1,135 @@
+ 1021  ls
+ 1022  cd mkdir katalog
+ 1023  mkdir katalog
+ 1024  cd katalog/
+ 1025  ls
+ 1026  git init 
+ 1027  touch processes.txt
+ 1028  ps aux
+ 1029  ps aux > processes.txt 
+ 1030  ls
+ 1031  cat processes.txt 
+ 1032  mv processes.txt copy.txt
+ 1033  ls
+ 1034  mv copy.txt processes.txt
+ 1035  ls
+ 1036  cp --help
+ 1037  cp processes.txt copy.txt
+ 1038  ls
+ 1039  mkdir kopia
+ 1040  mv copy.txt kopia/
+ 1041  ls
+ 1042  cd kopia/
+ 1043  ls
+ 1044  wc --help
+ 1045  wc -l copy.txt 
+ 1046  nano copy.txt 
+ 1047  ls
+ 1048  wc -l >> copy.txt 
+ 1049  ls
+ 1050  cat copy.txt 
+ 1051  wc -l>> copy.txt 
+ 1052  wc -l copy.txt 
+ 1053  wc -l copy.txt >> copy.txt 
+ 1054  ls
+ 1055  cat copy.txt 
+ 1056  ls
+ 1057  grep --help 
+ 1058  grep /bin copy.txt 
+ 1059  grep /bin copy.txt >> copy.txt 
+ 1060  grep /bin copy.txt copy.txt >> copy.txt 
+ 1061  grep /bin copy.txt | >> copy.txt 
+ 1062  cat copy.txt 
+ 1063  ls
+ 1064  grep /bin copy.txt  >! copy.txt 
+ 1065  ls
+ 1066  cls
+ 1067  ls
+ 1068  cat !
+ 1069  ls
+ 1070  rm !
+ 1071  ls
+ 1072  sudo apt update 
+ 1073  sudo apt upgrade 
+ 1074  ls
+ 1075  cd Dokumenty/
+ 1076  ls
+ 1077  cd 
+ 1078  cd Dokumenty/PROGRAMOWANIE/Program_C++/
+ 1079  ls
+ 1080  cd katalog/
+ 1081  ls
+ 1082  cat processes.txt 
+ 1083  cd kopia/
+ 1084  ls
+ 1085  cat copy.txt 
+ 1086  grep man
+ 1087  grep --man
+ 1088  grep --help
+ 1089  >> --help
+ 1090  ls
+ 1091  rm --help 
+ 1092  rm '--help' 
+ 1093* 
+ 1094  grep /bin copy.txt
+ 1095  grep /bin copy.txt >> copy.txt 
+ 1096  grep /bin copy.txt
+ 1097  grep /bin copy.txt >2 copy.txt 
+ 1098  ls
+ 1099  rm 2
+ 1100  ls
+ 1101  grep /bin copy.txt 
+ 1102  grep /bin copy.txt |>>copy.txt 
+ 1103  ls
+ 1104  cat copy.txt 
+ 1105  grep /bin copy.txt | >> copy.txt 
+ 1106  ls
+ 1107  cat copy.txt 
+ 1108  grep /bin copy.txt | >> copy.txt 
+ 1109  ls
+ 1110  cat copy.txt 
+ 1111  grep /bin copy.txt
+ 1112  grep /bin copy.txt > << copy.txt 
+ 1113* grep /bin copy.txt  >> copy.txt 
+ 1114  grep /bin copy.txt | >> copy.txt 
+ 1115  ls
+ 1116  nano copy.txt 
+ 1117  grep /bin copy.txt | tee >> copy.txt 
+ 1118  nano copy.txt 
+ 1119  history 
+ 1120  tail --help 
+ 1121  tail -n +1023
+ 1122* 
+ 1123  tail -n +1023 history
+ 1124  tail --help 
+ 1125  history | tail -n +1023 > commands.txt
+ 1126  ls
+ 1127  cat commands.txt 
+ 1128  history | tail -n +1023 tee  > commands.txt
+ 1129  history | tail -n  > commands.txt
+ 1130  history | tail n  > commands.txt
+ 1131  tail --help
+ 1132  history | tail n 
+ 1133  history | tail -n 
+ 1134  history | tail -n tee
+ 1135  history | tail -n head
+ 1136  history | tail -n 1023 > commands.txt 
+ 1137  ls
+ 1138  cat commands.txt 
+ 1139  history | tail -n +1023 > commands.txt 
+ 1140  cat com
+ 1141  cat commands.txt 
+ 1142  history | tail > commands.txt 
+ 1143  cat commands.txt 
+ 1144  man tail 
+ 1145  history | tail -n2 > commands.txt 
+ 1146  cat commands.txt 
+ 1147  history | tail -n2 > commands.txt 
+ 1148  cat commands.txt 
+ 1149  man tail 
+ 1150  history 
+ 1151  history | tail -n127 > commands.txt 
+ 1152  cat commands.txt 
+ 1153  history | tail -n130 > commands.txt 
+ 1154  cat commands.txt 
+ 1155  history | tail -n135 > commands.txt 
