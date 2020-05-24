@@ -278,4 +278,3 @@ dawid     4524  0.1  0.0  25288  6632 pts/0    Ss   06:25   0:00 bash
 root      4542  0.0  0.0      0     0 ?        I    06:25   0:00 [kworker/u16:2]
 root      4558  0.0  0.0      0     0 ?        I    06:26   0:00 [kworker/0:2]
 dawid     4627  0.0  0.0  40972  3544 pts/0    R+   06:28   0:00 ps aux
-DJ modified
